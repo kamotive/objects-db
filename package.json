@@ -1,0 +1,39 @@
+{
+  "_args": [
+    [
+      "@kamotive/objects-db@1.1.0"
+    ]
+  ],
+  "_from": "@kamotive/objects-db@1.1.0",
+  "_id": "@kamotive/objects-db@1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-oJDwTdFLDTmp6dIa6mTGkAb4Wvgj9itCYMNfBZbyTidsTVjswHtNQXN3c6+ncN3LHWj5HpWd82ylkLMEr2CRcw==",
+  "_location": "/@kamotive/objects-db",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@kamotive/objects-db@1.1.0",
+    "name": "@kamotive/objects-db",
+    "escapedName": "@kamotive%2fobjects-db",
+    "scope": "@kamotive",
+    "rawSpec": "1.1.0",
+    "saveSpec": null,
+    "fetchSpec": "1.1.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "_spec": "1.1.0",
+  "files": [
+    "API.md",
+    "CHANGELOG.md",
+    "index.js"
+  ],
+  "main": "dist/index.js",
+  "name": "@kamotive/objects-db",
+  "version": "1.1.0"
+}
